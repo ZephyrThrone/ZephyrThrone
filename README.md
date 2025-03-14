@@ -1,4 +1,7 @@
-## Hi there 👋
+## Links
+[Youtube](https://youtube.com/@zephyrthrone?si=ZwNJD97wLIbLHyPy)
+# ------
+![Stats](https://github-readme-stats.vercel.app/api?username=ZephyrThrone&theme=prussian&show_icons=true)
 
 <!--
 **ZephyrThrone/ZephyrThrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
