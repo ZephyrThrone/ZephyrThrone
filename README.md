@@ -1,5 +1,5 @@
 ## Links
-[Youtube](https://youtube.com/@zephyrthrone?si=ZwNJD97wLIbLHyPy)
+[Zephyr Throne](https://youtube.com/@zephyrthrone?si=ZwNJD97wLIbLHyPy)
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZephyrThrone&theme=prussian&show_icons=true)
 
